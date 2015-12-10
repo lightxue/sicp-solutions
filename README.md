@@ -1,1 +1,1 @@
-# Solutions for SICP exercises
+# Solutions for SICP exercises by Racket
